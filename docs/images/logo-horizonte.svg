@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <g transform="translate(180, 160)">
+    <path d="M -89 -33 A 95 95 0 0 1 89 -33" fill="none" stroke="#83c5be" stroke-width="14" stroke-linecap="round" />
+    <path d="M -70 -26 A 75 75 0 0 1 70 -26" fill="none" stroke="#0e94a0" stroke-width="16" stroke-linecap="round" />
+    <path d="M -52 -19 A 55 55 0 0 1 52 -19" fill="none" stroke="#006d77" stroke-width="18" stroke-linecap="round" />
+    <polygon points="0,-30 22,-5 0,20 -22,-5" fill="#006d77" />
+    <polygon points="0,-20 12,-5 0,10 -12,-5" fill="#83c5be" />
+  </g>
+  <text x="320" y="168" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="68" fill="#1e293b">HORIZONTE</text>
+  <text x="324" y="212" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="20" fill="#006d77" letter-spacing="4">DISTRIBUIDORA DE ALIMENTOS &amp; BEBIDAS</text>
+</svg>
